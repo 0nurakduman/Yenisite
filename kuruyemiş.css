@@ -1,0 +1,334 @@
+/*-------------------------------------------------------*/
+/* Kuruyemiş Menüsü */
+/*-------------------------------------------------------*/
+/* Butonlar */
+/*-------------------------------------------------------*/
+.ceviz button{
+    height: 35px;
+    width: 150px;
+    font-size: 18px;
+    font-weight: bold;
+    color:#000000;
+    background:#E95639;
+    border: solid 2px #000000;
+    cursor: pointer;
+    outline: none;
+    border-radius: 5px;
+    transition:.5s;
+}
+
+.ceviz button:hover{
+    background:#ffffff;
+}
+
+.ceviz button{
+    margin-top: 10px;
+    margin-left: 50px;
+}
+/*-------------------------------------------------------*/
+.fistik button{
+    height: 35px;
+    width: 150px;
+    font-size: 18px;
+    font-weight: bold;
+    color:#000000;
+    background:#E95639;
+    border: solid 2px #000000;
+    cursor: pointer;
+    outline: none;
+    border-radius: 5px;
+    transition:.5s;
+}
+
+.fistik button:hover{
+    background:#ffffff;
+}
+
+.fistik button{
+    margin-top: 10px;
+    margin-left: 50px;
+}
+/*-------------------------------------------------------*/
+.cekirdek button{
+    height: 35px;
+    width: 150px;
+    font-size: 18px;
+    font-weight: bold;
+    color:#000000;
+    background:#E95639;
+    border: solid 2px #000000;
+    cursor: pointer;
+    outline: none;
+    border-radius: 5px;
+    transition:.5s;
+}
+
+.cekirdek button:hover{
+    background:#ffffff;
+}
+
+.cekirdek button{
+    margin-top: 10px;
+    margin-left: 50px;
+}
+/*-------------------------------------------------------*/
+div.findik button{
+    height: 35px;
+    width: 150px;
+    font-size: 18px;
+    font-weight: bold;
+    color:#000000;
+    background:#E95639;
+    border: solid 2px #000000;
+    cursor: pointer;
+    outline: none;
+    border-radius: 5px;
+    transition:.5s;
+}
+
+.findik button:hover{
+    background:#ffffff;
+}
+
+.findik button{
+    margin-top: 10px;
+    margin-left: 50px;
+}
+/*-------------------------------------------------------*/
+.leblebi button{
+    height: 35px;
+    width: 150px;
+    font-size: 18px;
+    font-weight: bold;
+    color:#000000;
+    background:#E95639;
+    border: solid 2px #000000;
+    cursor: pointer;
+    outline: none;
+    border-radius: 5px;
+    transition:.5s;
+}
+
+.leblebi button:hover{
+    background:#ffffff;
+}
+
+.leblebi button{
+    margin-top: 10px;
+    margin-left: 50px;
+}
+/*-------------------------------------------------------*/
+.antepfistik button{
+    height: 35px;
+    width: 150px;
+    font-size: 18px;
+    font-weight: bold;
+    color:#000000;
+    background:#E95639;
+    border: solid 2px #000000;
+    cursor: pointer;
+    outline: none;
+    border-radius: 5px;
+    transition:.5s;
+}
+
+.antepfistik button:hover{
+    background:#ffffff;
+}
+
+.antepfistik button{
+    margin-top: 10px;
+    margin-left: 50px;
+}
+/*-------------------------------------------------------*/
+.badem button{
+    height: 35px;
+    width: 150px;
+    font-size: 18px;
+    font-weight: bold;
+    color:#000000;
+    background:#E95639;
+    border: solid 2px #000000;
+    cursor: pointer;
+    outline: none;
+    border-radius: 5px;
+    transition:.5s;
+}
+
+.badem button:hover{
+    background:#ffffff;
+}
+
+.badem button{
+    margin-top: 10px;
+    margin-left: 50px;
+}
+/*-------------------------------------------------------*/
+.kaju button{
+    height: 35px;
+    width: 150px;
+    font-size: 18px;
+    font-weight: bold;
+    color:#000000;
+    background:#E95639;
+    border: solid 2px #000000;
+    cursor: pointer;
+    outline: none;
+    border-radius: 5px;
+    transition:.5s;
+}
+
+.kaju button:hover{
+    background:#ffffff;
+}
+
+.kaju button{
+    margin-top: 10px;
+    margin-left: 50px;
+}
+/*-------------------------------------------------------*/
+/* Yazılar */
+/*-------------------------------------------------------*/
+div.kaju h3{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    width: 100x;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+/*-------------------------------------------------------*/
+div.ceviz h3{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    width: 100x;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+/*-------------------------------------------------------*/
+div.fistik h3{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    width: 100x;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+/*-------------------------------------------------------*/
+div.cekirdek h3{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    width: 100x;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: -10px;
+}
+/*-------------------------------------------------------*/
+div.findik h3{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    width: 100x;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+/*-------------------------------------------------------*/
+div.leblebi h3{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    width: 100x;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+/*-------------------------------------------------------*/
+div.antepfistik h3{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    width: 100x;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+/*-------------------------------------------------------*/
+div.badem h3{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    width: 100x;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+/*-------------------------------------------------------*/
+/* Fotoğraflar */
+/*-------------------------------------------------------*/
+div.ceviz {
+    display: inline-block;
+    margin-left: 175px;
+    margin-top: 75px;
+    
+}
+/*-------------------------------------------------------*/
+div.fistik {
+    display: inline-block;
+    margin-left: 175px;
+    margin-top: 75px;
+    
+}
+/*-------------------------------------------------------*/
+div.cekirdek {
+    display: inline-block;
+    margin-left: 175px;
+    margin-top: 75px;
+    
+}
+/*-------------------------------------------------------*/
+div.findik {
+    display: inline-block;
+    margin-left: 175px;
+    margin-top: 75px;
+}
+/*-------------------------------------------------------*/
+div.leblebi {
+    display: inline-block;
+    margin-left: 175px;
+    margin-top: 95px;
+    
+}
+/*-------------------------------------------------------*/
+div.antepfistik {
+    display: inline-block;
+    margin-left: 175px;
+    margin-top: 95px; 
+}
+/*-------------------------------------------------------*/
+div.badem {
+    display: inline-block;
+    margin-left: 150px;
+    margin-top: 95px;  
+}
+/*-------------------------------------------------------*/
+div.kaju {
+    display: inline-block;
+    margin-left: 175px;
+    margin-top: 95px; 
+}
+/*-------------------------------------------------------*/
+/*-------------------------------------------------------*/

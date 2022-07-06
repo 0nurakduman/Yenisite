@@ -1,0 +1,85 @@
+/*-------------------------------------------------------*/
+/* Ürünler Menüsü */
+/*-------------------------------------------------------*/
+div.içecekler{
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 350px;
+}
+/*-------------------------------------------------------*/
+div.içecekler h1{
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+    width: 300px;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 5px;
+}
+/*-------------------------------------------------------*/
+div.kuruyemiş{
+    display: inline-block;
+    margin-left: 50px;
+    margin-top: 15px;
+}
+/*-------------------------------------------------------*/
+div.kuruyemiş h1{
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+    width: 300px;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 5px;
+}
+/*-------------------------------------------------------*/
+div.meyveler{
+    display: inline-block;
+    margin-left: 50px;
+    margin-top: 15px; 
+}
+/*-------------------------------------------------------*/
+div.meyveler h1{
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+    width: 300px;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 5px;
+}
+/*-------------------------------------------------------*/
+div.sebzeler{
+    display: inline-block;
+    margin-left: 50px;
+    margin-top: 15px;  
+}
+/*-------------------------------------------------------*/
+div.sebzeler h1{
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+    width: 300px;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 5px;
+}
+/*-------------------------------------------------------*/
+div.cips{
+    display: inline-block;
+    margin-left: 30px;
+    margin-top: 15px;
+    
+}
+/*-------------------------------------------------------*/
+div.cips h1{
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+    width: 300px;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 5px;
+}
+/*-------------------------------------------------------*/
+/*-------------------------------------------------------*/

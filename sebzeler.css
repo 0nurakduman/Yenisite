@@ -1,0 +1,341 @@
+/*-------------------------------------------------------*/
+/* Sebze Menüsü */
+/*-------------------------------------------------------*/
+/* Butonlar */
+/*-------------------------------------------------------*/
+.brokoli button{
+    height: 35px;
+    width: 150px;
+    font-size: 18px;
+    font-weight: bold;
+    color:#000000;
+    background:#E95639;
+    border: solid 2px #000000;
+    cursor: pointer;
+    outline: none;
+    border-radius: 5px;
+    transition:.5s;
+}
+
+.brokoli button:hover{
+    background:#ffffff;
+}
+
+.brokoli button{
+    margin-top: 10px;
+    margin-left: 60px;
+}
+/*-------------------------------------------------------*/
+.domates button{
+    height: 35px;
+    width: 150px;
+    font-size: 18px;
+    font-weight: bold;
+    color:#000000;
+    background:#E95639;
+    border: solid 2px #000000;
+    cursor: pointer;
+    outline: none;
+    border-radius: 5px;
+    transition:.5s;
+}
+
+.domates button:hover{
+    background:#ffffff;
+}
+
+.domates button{
+    margin-top: 10px;
+    margin-left: 60px;
+}
+/*-------------------------------------------------------*/
+.fasulye button{
+    height: 35px;
+    width: 150px;
+    font-size: 18px;
+    font-weight: bold;
+    color:#000000;
+    background:#E95639;
+    border: solid 2px #000000;
+    cursor: pointer;
+    outline: none;
+    border-radius: 5px;
+    transition:.5s;
+}
+
+.fasulye button:hover{
+    background:#ffffff;
+}
+
+.fasulye button{
+    margin-top: 10px;
+    margin-left: 60px;
+}
+/*-------------------------------------------------------*/
+.havuç button{
+    height: 35px;
+    width: 150px;
+    font-size: 18px;
+    font-weight: bold;
+    color:#000000;
+    background:#E95639;
+    border: solid 2px #000000;
+    cursor: pointer;
+    outline: none;
+    border-radius: 5px;
+    transition:.5s;
+}
+
+.havuç button:hover{
+    background:#ffffff;
+}
+
+.havuç button{
+    margin-top: 10px;
+    margin-left: 60px;
+}
+/*-------------------------------------------------------*/
+.limon button{
+    height: 35px;
+    width: 150px;
+    font-size: 18px;
+    font-weight: bold;
+    color:#000000;
+    background:#E95639;
+    border: solid 2px #000000;
+    cursor: pointer;
+    outline: none;
+    border-radius: 5px;
+    transition:.5s;
+}
+
+.limon button:hover{
+    background:#ffffff;
+}
+
+.limon button{
+    margin-top: 10px;
+    margin-left: 60px;
+}
+/*-------------------------------------------------------*/
+.mantar button{
+    height: 35px;
+    width: 150px;
+    font-size: 18px;
+    font-weight: bold;
+    color:#000000;
+    background:#E95639;
+    border: solid 2px #000000;
+    cursor: pointer;
+    outline: none;
+    border-radius: 5px;
+    transition:.5s;
+}
+
+.mantar button:hover{
+    background:#ffffff;
+}
+
+.mantar button{
+    margin-top: 10px;
+    margin-left: 60px;
+}
+/*-------------------------------------------------------*/
+.patates button{
+    height: 35px;
+    width: 150px;
+    font-size: 18px;
+    font-weight: bold;
+    color:#000000;
+    background:#E95639;
+    border: solid 2px #000000;
+    cursor: pointer;
+    outline: none;
+    border-radius: 5px;
+    transition:.5s;
+}
+
+.patates button:hover{
+    background:#ffffff;
+}
+
+.patates button{
+    margin-top: 10px;
+    margin-left: 60px;
+}
+/*-------------------------------------------------------*/
+.patlıcan button{
+    height: 35px;
+    width: 150px;
+    font-size: 18px;
+    font-weight: bold;
+    color:#000000;
+    background:#E95639;
+    border: solid 2px #000000;
+    cursor: pointer;
+    outline: none;
+    border-radius: 5px;
+    transition:.5s;
+}
+
+.patlıcan button:hover{
+    background:#ffffff;
+}
+
+.patlıcan button{
+    margin-top: 10px;
+    margin-left: 60px;
+}
+/*-------------------------------------------------------*/
+/* Yazılar */
+/*-------------------------------------------------------*/
+div.brokoli h3{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    width: 100x;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+/*-------------------------------------------------------*/
+div.domates h3{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    width: 100x;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+/*-------------------------------------------------------*/
+div.fasulye h3{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    width: 100x;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: -10px;
+}
+/*-------------------------------------------------------*/
+div.havuç h3{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    width: 100x;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+/*-------------------------------------------------------*/
+div.limon h3{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    width: 100x;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+/*-------------------------------------------------------*/
+div.limon h3{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    width: 100x;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+/*-------------------------------------------------------*/
+div.mantar h3{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    width: 100x;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+/*-------------------------------------------------------*/
+div.patates h3{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    width: 100x;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+/*-------------------------------------------------------*/
+div.patlıcan h3{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    width: 100x;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+/*-------------------------------------------------------*/
+/* Fotoğraflar */
+/*-------------------------------------------------------*/
+div.brokoli {
+    display: inline-block;
+    margin-left: 65px;
+    margin-top: 40px; 
+}
+/*-------------------------------------------------------*/
+div.domates {
+    display: inline-block;
+    margin-left: 175px;
+    margin-top: 40px;
+}
+/*-------------------------------------------------------*/
+div.fasulye {
+    display: inline-block;
+    margin-left: 175px;
+    margin-top: 40px;
+}
+/*-------------------------------------------------------*/
+div.havuç {
+    display: inline-block;
+    margin-left: 175px;
+    margin-top: 40px;  
+}
+/*-------------------------------------------------------*/
+div.limon {
+    display: inline-block;
+    margin-left: 65px;
+    margin-top: 100px;
+}
+/*-------------------------------------------------------*/
+div.mantar {
+    display: inline-block;
+    margin-left: 175px;
+    margin-top: 100px;
+}
+/*-------------------------------------------------------*/
+div.patates {
+    display: inline-block;
+    margin-left: 175px;
+    margin-top: 100px;
+}
+/*-------------------------------------------------------*/
+div.patlıcan {
+    display: inline-block;
+    margin-left: 175px;
+    margin-top: 100px;
+}
+/*-------------------------------------------------------*/
+/*-------------------------------------------------------*/

@@ -1,0 +1,420 @@
+/*-------------------------------------------------------*/
+/* İçecekler Menüsü */
+/*-------------------------------------------------------*/
+/* Butonlar */
+/*-------------------------------------------------------*/
+.cococola button{
+    height: 35px;
+    width: 150px;
+    font-size: 18px;
+    font-weight: bold;
+    color:#000000;
+    background:#E95639;
+    border: solid 2px #000000;
+    cursor: pointer;
+    outline: none;
+    border-radius: 5px;
+    transition:.5s;
+}
+
+.cococola button:hover{
+    background:#ffffff;
+}
+
+.cococola button{
+    margin-top: 10px;
+    margin-left: -20px;
+}
+/*-------------------------------------------------------*/
+.fanta button{
+    height: 35px;
+    width: 150px;
+    font-size: 18px;
+    font-weight: bold;
+    color:#000000;
+    background:#E95639;
+    border: solid 2px #000000;
+    cursor: pointer;
+    outline: none;
+    border-radius: 5px;
+    transition:.5s;
+}
+
+.fanta button:hover{
+    background:#ffffff;
+}
+
+.fanta button{
+    margin-top: 10px;
+    margin-left: -20px;
+}
+/*-------------------------------------------------------*/
+.sprite button{
+    height: 35px;
+    width: 150px;
+    font-size: 18px;
+    font-weight: bold;
+    color:#000000;
+    background:#E95639;
+    border: solid 2px #000000;
+    cursor: pointer;
+    outline: none;
+    border-radius: 5px;
+    transition:.5s;
+}
+
+.sprite button:hover{
+    background:#ffffff;
+}
+
+.sprite button{
+    margin-top: 10px;
+    margin-left: 0px;
+}
+/*-------------------------------------------------------*/
+.redbull button{
+    height: 35px;
+    width: 150px;
+    font-size: 18px;
+    font-weight: bold;
+    color:#000000;
+    background:#E95639;
+    border: solid 2px #000000;
+    cursor: pointer;
+    outline: none;
+    border-radius: 5px;
+    transition:.5s;
+}
+
+.redbull button:hover{
+    background:#ffffff;
+}
+
+.redbull button{
+    margin-top: 10px;
+    margin-left: -20px;
+}
+/*-------------------------------------------------------*/
+.burn button{
+    height: 35px;
+    width: 150px;
+    font-size: 18px;
+    font-weight: bold;
+    color:#000000;
+    background:#E95639;
+    border: solid 2px #000000;
+    cursor: pointer;
+    outline: none;
+    border-radius: 5px;
+    transition:.5s;
+}
+
+.burn button:hover{
+    background:#ffffff;
+}
+
+.burn button{
+    margin-top: 10px;
+    margin-left: -20px;
+}
+/*-------------------------------------------------------*/
+.cococola1l button{
+    height: 35px;
+    width: 150px;
+    font-size: 18px;
+    font-weight: bold;
+    color:#000000;
+    background:#E95639;
+    border: solid 2px #000000;
+    cursor: pointer;
+    outline: none;
+    border-radius: 5px;
+    transition:.5s;
+}
+
+.cococola1l button:hover{
+    background:#ffffff;
+}
+
+.cococola1l button{
+    margin-top: 10px;
+    margin-left: -20px;
+}
+/*-------------------------------------------------------*/
+.fanta1l button{
+    height: 35px;
+    width: 150px;
+    font-size: 18px;
+    font-weight: bold;
+    color:#000000;
+    background:#E95639;
+    border: solid 2px #000000;
+    cursor: pointer;
+    outline: none;
+    border-radius: 5px;
+    transition:.5s;
+}
+
+.fanta1l button:hover{
+    background:#ffffff;
+}
+
+.fanta1l button{
+    margin-top: 10px;
+    margin-left: -20px;
+}
+/*-------------------------------------------------------*/
+.sprite1l button{
+    height: 35px;
+    width: 150px;
+    font-size: 18px;
+    font-weight: bold;
+    color:#000000;
+    background:#E95639;
+    border: solid 2px #000000;
+    cursor: pointer;
+    outline: none;
+    border-radius: 5px;
+    transition:.5s;
+}
+
+.sprite1l button:hover{
+    background:#ffffff;
+}
+
+.sprite1l button{
+    margin-top: 10px;
+    margin-left: -20px;
+}
+/*-------------------------------------------------------*/
+.redbull4x button{
+    height: 35px;
+    width: 150px;
+    font-size: 18px;
+    font-weight: bold;
+    color:#000000;
+    background:#E95639;
+    border: solid 2px #000000;
+    cursor: pointer;
+    outline: none;
+    border-radius: 5px;
+    transition:.5s;
+}
+
+.redbull4x button:hover{
+    background:#ffffff;
+}
+
+.redbull4x button{
+    margin-top: 10px;
+    margin-left: 35px;
+}
+/*-------------------------------------------------------*/
+.burn4x button{
+    height: 35px;
+    width: 150px;
+    font-size: 18px;
+    font-weight: bold;
+    color:#000000;
+    background:#E95639;
+    border: solid 2px #000000;
+    cursor: pointer;
+    outline: none;
+    border-radius: 5px;
+    transition:.5s;
+}
+
+.burn4x button:hover{
+    background:#ffffff;
+}
+
+.burn4x button{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+/*-------------------------------------------------------*/
+/* Yazılar */
+/*-------------------------------------------------------*/
+div.cococola h3{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    width: 100x;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: -30px;
+}
+/*-------------------------------------------------------*/
+div.fanta h3{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    width: 100x;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: -20px;
+}
+/*-------------------------------------------------------*/
+div.sprite h3{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    width: 100x;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: -10px;
+}
+/*-------------------------------------------------------*/
+div.redbull h3{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    width: 100x;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: -30px;
+}
+/*-------------------------------------------------------*/
+div.burn h3{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    width: 100x;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: -20px;
+}
+/*-------------------------------------------------------*/
+div.cococola1l h3{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    width: 100x;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: -45px;
+}
+/*-------------------------------------------------------*/
+div.fanta1l h3{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    width: 100x;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: -30px;
+}
+/*-------------------------------------------------------*/
+div.sprite1l h3{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    width: 100x;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: -50px;
+}
+/*-------------------------------------------------------*/
+div.redbull4x h3{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    width: 100x;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+/*-------------------------------------------------------*/
+div.burn4x h3{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    width: 100x;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+/*-------------------------------------------------------*/
+/* Fotoğraflar */
+/*-------------------------------------------------------*/
+div.cococola {
+    display: inline-block;
+    margin-left: 175px;
+    margin-top: 40px;  
+}
+/*-------------------------------------------------------*/
+div.fanta {
+    display: inline-block;
+    margin-left: 175px;
+    margin-top: 40px; 
+}
+/*-------------------------------------------------------*/
+div.sprite {
+    display: inline-block;
+    margin-left: 175px;
+    margin-top: 40px;  
+}
+/*-------------------------------------------------------*/
+div.redbull {
+    display: inline-block;
+    margin-left: 175px;
+    margin-top: 40px;  
+}
+/*-------------------------------------------------------*/
+div.burn {
+    display: inline-block;
+    margin-left: 175px;
+    margin-top: 40px;  
+}
+/*-------------------------------------------------------*/
+div.cococola1l {
+    display: inline-block;
+    margin-left: 160px;
+    margin-top: 100px;
+}
+/*-------------------------------------------------------*/
+div.fanta1l {
+    display: inline-block;
+    margin-left: 170px;
+    margin-top: 100px;  
+}
+/*-------------------------------------------------------*/
+div.sprite1l {
+    display: inline-block;
+    margin-left: 200px;
+    margin-top: 100px;
+}
+/*-------------------------------------------------------*/
+div.redbull4x {
+    display: inline-block;
+    margin-left: 130px;
+    margin-top: 100px;
+}
+/*-------------------------------------------------------*/
+div.burn4x {
+    display: inline-block;
+    margin-left: 150px;
+    margin-top: 100px;
+}
+div.burn4x h3{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    width: 100x;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+/*-------------------------------------------------------*/
+/*-------------------------------------------------------*/

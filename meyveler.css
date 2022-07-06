@@ -1,0 +1,330 @@
+/*-------------------------------------------------------*/
+/* Meyveler Menüsü */
+/*-------------------------------------------------------*/
+/* Butonlar */
+/*-------------------------------------------------------*/
+.ejder button{
+    height: 35px;
+    width: 150px;
+    font-size: 18px;
+    font-weight: bold;
+    color:#000000;
+    background:#E95639;
+    border: solid 2px #000000;
+    cursor: pointer;
+    outline: none;
+    border-radius: 5px;
+    transition:.5s;
+}
+
+.ejder button:hover{
+    background:#ffffff;
+}
+
+.ejder button{
+    margin-top: 10px;
+    margin-left: 60px;
+}
+/*-------------------------------------------------------*/
+.hindistan button{
+    height: 35px;
+    width: 150px;
+    font-size: 18px;
+    font-weight: bold;
+    color:#000000;
+    background:#E95639;
+    border: solid 2px #000000;
+    cursor: pointer;
+    outline: none;
+    border-radius: 5px;
+    transition:.5s;
+}
+
+.hindistan button:hover{
+    background:#ffffff;
+}
+
+.hindistan button{
+    margin-top: 10px;
+    margin-left: 60px;
+}
+/*-------------------------------------------------------*/
+.ananas button{
+    height: 35px;
+    width: 150px;
+    font-size: 18px;
+    font-weight: bold;
+    color:#000000;
+    background:#E95639;
+    border: solid 2px #000000;
+    cursor: pointer;
+    outline: none;
+    border-radius: 5px;
+    transition:.5s;
+}
+
+.ananas button:hover{
+    background:#ffffff;
+}
+
+.ananas button{
+    margin-top: 10px;
+    margin-left: 60px;
+}
+/*-------------------------------------------------------*/
+.cilek button{
+    height: 35px;
+    width: 150px;
+    font-size: 18px;
+    font-weight: bold;
+    color:#000000;
+    background:#E95639;
+    border: solid 2px #000000;
+    cursor: pointer;
+    outline: none;
+    border-radius: 5px;
+    transition:.5s;
+}
+
+.cilek button:hover{
+    background:#ffffff;
+}
+
+.cilek button{
+    margin-top: 10px;
+    margin-left: 60px;
+}
+/*-------------------------------------------------------*/
+.elma button{
+    height: 35px;
+    width: 150px;
+    font-size: 18px;
+    font-weight: bold;
+    color:#000000;
+    background:#E95639;
+    border: solid 2px #000000;
+    cursor: pointer;
+    outline: none;
+    border-radius: 5px;
+    transition:.5s;
+}
+
+.elma button:hover{
+    background:#ffffff;
+}
+
+.elma button{
+    margin-top: 10px;
+    margin-left: 60px;
+}
+/*-------------------------------------------------------*/
+.kivi button{
+    height: 35px;
+    width: 150px;
+    font-size: 18px;
+    font-weight: bold;
+    color:#000000;
+    background:#E95639;
+    border: solid 2px #000000;
+    cursor: pointer;
+    outline: none;
+    border-radius: 5px;
+    transition:.5s;
+}
+
+.kivi button:hover{
+    background:#ffffff;
+}
+
+.kivi button{
+    margin-top: 10px;
+    margin-left: 60px;
+}
+/*-------------------------------------------------------*/
+.muz button{
+    height: 35px;
+    width: 150px;
+    font-size: 18px;
+    font-weight: bold;
+    color:#000000;
+    background:#E95639;
+    border: solid 2px #000000;
+    cursor: pointer;
+    outline: none;
+    border-radius: 5px;
+    transition:.5s;
+}
+
+.muz button:hover{
+    background:#ffffff;
+}
+
+.muz button{
+    margin-top: 10px;
+    margin-left: 60px;
+}
+/*-------------------------------------------------------*/
+.portakal button{
+    height: 35px;
+    width: 150px;
+    font-size: 18px;
+    font-weight: bold;
+    color:#000000;
+    background:#E95639;
+    border: solid 2px #000000;
+    cursor: pointer;
+    outline: none;
+    border-radius: 5px;
+    transition:.5s;
+}
+
+.portakal button:hover{
+    background:#ffffff;
+}
+
+.portakal button{
+    margin-top: 10px;
+    margin-left: 60px;
+}
+/*-------------------------------------------------------*/
+/* Yazılar */
+/*-------------------------------------------------------*/
+div.ejder h3{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    width: 100x;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+/*-------------------------------------------------------*/
+div.hindistan h3{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    width: 100x;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+/*-------------------------------------------------------*/
+div.ananas h3{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    width: 100x;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: -10px;
+}
+/*-------------------------------------------------------*/
+div.cilek h3{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    width: 100x;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+/*-------------------------------------------------------*/
+div.elma h3{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    width: 100x;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+/*-------------------------------------------------------*/
+div.kivi h3{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    width: 100x;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+/*-------------------------------------------------------*/
+div.muz h3{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    width: 100x;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+/*-------------------------------------------------------*/
+div.portakal h3{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    width: 100x;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+/*-------------------------------------------------------*/
+/* Fotoğraflar */
+/*-------------------------------------------------------*/
+div.ejder {
+    display: inline-block;
+    margin-left: 65px;
+    margin-top: 40px;
+}
+/*-------------------------------------------------------*/
+div.hindistan {
+    display: inline-block;
+    margin-left: 175px;
+    margin-top: 40px;  
+}
+/*-------------------------------------------------------*/
+div.ananas {
+    display: inline-block;
+    margin-left: 175px;
+    margin-top: 40px;   
+}
+/*-------------------------------------------------------*/
+div.cilek {
+    display: inline-block;
+    margin-left: 175px;
+    margin-top: 40px;
+}
+/*-------------------------------------------------------*/
+div.elma {
+    display: inline-block;
+    margin-left: 65px;
+    margin-top: 100px;   
+}
+/*-------------------------------------------------------*/
+div.kivi {
+    display: inline-block;
+    margin-left: 175px;
+    margin-top: 100px;  
+}
+/*-------------------------------------------------------*/
+div.muz {
+    display: inline-block;
+    margin-left: 175px;
+    margin-top: 100px;   
+}
+/*-------------------------------------------------------*/
+div.portakal {
+    display: inline-block;
+    margin-left: 175px;
+    margin-top: 100px;
+}
+/*-------------------------------------------------------*/
+/*-------------------------------------------------------*/
